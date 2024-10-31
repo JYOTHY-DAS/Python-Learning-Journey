@@ -3,5 +3,5 @@
 ### 1. random.randint(a, b)
 -Generates a random integer between a and b, inclusive.
 
-import random
-print(random.randint(1, 10))  # Outputs a random integer from 1 to 10
+### import random
+### print(random.randint(1, 10))  # Outputs a random integer from 1 to 10
