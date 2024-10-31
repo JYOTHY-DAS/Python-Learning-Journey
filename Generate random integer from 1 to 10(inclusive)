@@ -1,0 +1,2 @@
+import random
+print(random.randint(1, 10))  # Outputs a random integer from 1 to 10
