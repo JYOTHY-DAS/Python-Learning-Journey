@@ -1,0 +1,3 @@
+deck = [1, 2, 3, 4, 5]
+random.shuffle(deck)
+print(deck)  # Outputs the deck in a random order
