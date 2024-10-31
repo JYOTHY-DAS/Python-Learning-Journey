@@ -1,0 +1,2 @@
+colors = ['red', 'blue', 'green']
+print(random.choice(colors))  # Outputs 'red', 'blue', or 'green' at random
