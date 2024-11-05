@@ -15,6 +15,5 @@ Mark_list={#'Name':['Anu', 'Anjali', 'Sameer', 'Malavika', 'Neelima'],
 df= pd.DataFrame(Mark_list)
 print(df)
 
-# Mean value of the column 'Arabic' which has missing entries in it.
-Avg_of_Each_Column= df.mean(axis=0,skipna=True)
+Avg_of_Each_Column= df.mean(axis=0,skipna=True) # axis=0: Calculates the mean of each column.
 print(Avg_of_Each_Column)
