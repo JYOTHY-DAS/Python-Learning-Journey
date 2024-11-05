@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np # Imported numpy so that we can represent missing values as  np.nan and handle them using 'skipna=True'
+import numpy as np # Imported numpy so that we can represent missing values as  np.nan and handle/ignore them using 'skipna=True'
 
 # Create a DataFrame
 
